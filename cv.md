@@ -19,9 +19,9 @@ accountant | 2011-2014
 accountant | 2007-2008  
 
 ## EDUCATION
-* *January 2021 - present* – [Modern React with Redux course on Udemy](https://www.udemy.com/course/react-redux/)
-* *November 2019 - March 2020* – EASY CODE IT SCHOOL | Front-end course
-* *2002 - 2007* – KhNUE | master's degree in "Economy of Enterprise" (Faculty of Economy and Law)
+* *January 2021 - present* – [Modern React with Redux course](https://www.udemy.com/course/react-redux/) on Udemy
+* *November 2019 - March 2020* – EASY CODE IT SCHOOL Front-end course
+* *2002 - 2007* – KhNUE master's degree in "Economy of Enterprise" (Faculty of Economy and Law)
 
 ## SKILLS
 * *worked with*: HTML5, CSS3, SCSS, JQuery, JavaScript
