@@ -9,6 +9,7 @@ a {
 .container {
   max-width: 600px;
   margin: 0 auto;
+  padding: 0 10px;
   font-family: 'Varela Round', sans-serif;
   line-height: 1.5;
 }
