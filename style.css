@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 10px;
+  font-family: 'Varela Round', sans-serif;
+  line-height: 1.5;
+}
+
+section {
+  padding-top: 32px;
+}
+
+#header {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
+
+#header a { color: #000; }
+
+#header a:hover { text-decoration: underline; }
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-left: 0;
+  margin: 0;
+  line-height: 1;
+  list-style: none;
+}
+
+.main-heading {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.section-heading {
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.contacts-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts-link,
+.education-list a {
+  color: rgb(57,57,156);
+  transition: all .2s ease-in-out;
+}
+
+.contacts-link:hover,
+.education-list a:hover { text-decoration: underline; }
+
+.contacts-photo {
+  height: 140px;
+  border-radius: 50%;
+}
+
+ul { padding-left: 16px; }
+
+li { margin-bottom: 6px; }
+
+.experience-list mark {
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.education-list span,
+.skills-list span { text-decoration: underline; }
+
+.section-subheading {
+  text-align: center;
+}
+
+.example img {
+  max-width: 545px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+.example p {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.footer-wrapper {
+  max-width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 1;
+  font-size: 12px;
+  margin: 40px auto 0;
+}
+
+.footer-wrapper a {
+  transition: all .2s ease-in-out;
+}
+
+.footer-wrapper a:hover { transform: scale(1.1); }
+
+.footer-wrapper img { height: 20px; }
